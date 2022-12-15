@@ -17,5 +17,4 @@ A binary tree is a type of data structure. Its main purpose is to store data. Wh
 
 ### AUTHORS
 ---
-Ben Oketch
-Michelle Giraldo
+Ajibade Abdulmatin A.
